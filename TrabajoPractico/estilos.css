@@ -1,0 +1,25 @@
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+ul{
+   list-style-type: none; 
+}
+aside{
+    background-color: rgb(204, 229, 245);
+    
+}
+aside h2{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+aside section h2:first-child {
+    border-bottom: 2px solid rgb(177, 37, 95);
+}
+main{
+        background-color: antiquewhite;
+}
+main section h2:first-child{
+    border-bottom: 2px solid rgb(177, 37, 95);
+}
